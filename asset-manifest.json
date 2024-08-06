@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RohitKumar9690/form_using_tailwind/static/css/main.6cbe39a1.css",
+    "main.js": "/RohitKumar9690/form_using_tailwind/static/js/main.cfaf0545.js",
+    "static/js/453.f50b535c.chunk.js": "/RohitKumar9690/form_using_tailwind/static/js/453.f50b535c.chunk.js",
+    "index.html": "/RohitKumar9690/form_using_tailwind/index.html",
+    "main.6cbe39a1.css.map": "/RohitKumar9690/form_using_tailwind/static/css/main.6cbe39a1.css.map",
+    "main.cfaf0545.js.map": "/RohitKumar9690/form_using_tailwind/static/js/main.cfaf0545.js.map",
+    "453.f50b535c.chunk.js.map": "/RohitKumar9690/form_using_tailwind/static/js/453.f50b535c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cbe39a1.css",
+    "static/js/main.cfaf0545.js"
+  ]
+}
